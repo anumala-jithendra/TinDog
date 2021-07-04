@@ -1,0 +1,198 @@
+* {
+    scroll-behavior: smooth;
+}
+
+/* Headings */
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* Navigation */
+.navbar {
+    padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 1.02rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+
+/* Title Section */
+
+#title {
+    background-color: #ff4c68;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* The promotional image */
+.promo {
+    transform:rotate(15deg);
+    padding-top: 3rem;
+    margin-left: 3rem;
+    width: 20%;
+    position: absolute;
+}
+
+.intro-text {
+    margin-top: 5rem;
+    color:whitesmoke;
+}
+
+.download {
+   margin: 2rem 1rem 2rem 1rem;
+}
+
+/* Features */
+
+#features {
+    padding-top: 2rem;
+    background-color: whitesmoke;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-txt {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+.feature-icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+    color: #ff4c68;
+}
+
+.feature-exp {
+    color: #8f8f8f;
+    font-size: 1rem;
+}
+
+/* Testimonials */
+
+#testimonials {
+    text-align: center;
+    color: whitesmoke;
+    background-color: #ff4c68;
+}
+
+.test-img {
+    width: 20%;
+    border-radius: 100%;
+    margin: 1.3rem;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img {
+    width: 15%;
+    margin: 0 1rem;
+}
+
+.carousel-item {
+    padding: 7% 15% 7% 15%;
+}
+
+/* Pricing */
+
+#pricing h2 {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+#pricing p {
+    text-align: center;
+}
+
+.card-header h3 {
+    text-align: center;
+    padding-top: 1rem;
+    font-weight: 200;
+}
+
+.card-body {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.month {
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+
+.signup {
+    margin-top: 2rem;
+    width: 100%;
+    position: relative;
+    top: 1.5rem;
+}
+
+#mastiff {
+    position: relative;
+    top: -1rem;
+}
+
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    margin: auto;
+    padding: 2rem;
+}
+
+.cta-header {
+    color: whitesmoke;
+    font-weight: 800;
+    font-size: 2rem;
+    text-align:center;
+}
+
+.container-btn {
+    text-align: center;
+    
+}
+
+/* Footer */
+
+#footer{
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.foot-icon {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
